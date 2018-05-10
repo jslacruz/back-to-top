@@ -10,4 +10,7 @@ yarn
 
 ## Running locally
 
-For compiling the javascript run `yarn dev`
+For compiling the javascript run:
+```sh
+yarn dev
+```
